@@ -106,8 +106,8 @@ def get_user_input(prompt, input_type="text", color=Colors.CYAN):
 
 def display_bot_info():
     try:
-        uid = os.getenv("BOT_UID")
-        password = os.getenv("BOT_PASSWORD")
+        uid = os.getenv("5521004876")
+        password = os.getenv("CF804F1C9961D886BC44D623D580D9CB4694CC543520D546615A06C41C216A69")
         # with open("bot.txt", "r") as file:
         #     data = json.load(file)
         if not uid or not password:
